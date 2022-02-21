@@ -15,7 +15,12 @@ public class FindAvg {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		findAverage();
+		int a=3;
+		int b=3;
+		System.out.println("the result is : "+Math.cbrt(9));
+		
+		
+	
 	}
 
 }
